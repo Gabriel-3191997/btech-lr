@@ -9,6 +9,14 @@
 
 
 
+@media(max-width: 600px) {
+
+	h2#acad{
+		display:none;
+	}
+}
+
+
 @media all and (max-width: 600px){
 	
 	#scholarship,#faculty,#menu{
