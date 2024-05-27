@@ -1,0 +1,589 @@
+@media(max-width: 600px){
+
+	body{
+		
+		width: 100%;
+		height:auto;
+	}
+}
+
+
+
+@media all and (max-width: 600px){
+	
+	#scholarship,#faculty,#menu{
+		display: none;
+	}
+
+}
+
+
+
+@media(max-width: 600px){
+	
+	#blogPost{
+		width: 100%;
+	}
+}
+
+
+/* navigation */
+
+@media(max-width: 600px){
+	
+	#navigation{
+
+		padding: 30px;
+	}
+}
+
+
+@media(max-width: 600px) {
+
+	#Responsive-footer-section{
+
+		display: block;
+		text-align: left;
+		height: 300%;
+		padding: 40px;
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	#OurMission{
+		padding-top: 100%;
+		height:auto;
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	#para{
+		width: 100%;
+		padding-top: 50px;
+		height: 100%;
+		
+	}
+}
+
+@media(max-width: 600px){
+
+	#NewsBlog{
+		
+		margin-right: 0px;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	.mySlides{
+
+		height: 100%;
+	}
+}
+
+
+
+
+@media(max-width: 600px){
+
+		#banner{
+			height: 200px;
+		}
+
+}
+
+
+@media(max-width: 600px){
+
+
+	#about{
+
+		width: auto;
+		margin: 0px;
+		float: left;
+		height:10%;
+	}
+}
+
+
+
+
+
+@media(max-width: 600px){
+
+	#para-section{
+
+		margin: 0px;
+		width: auto;
+		padding: 0px;
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	button#download-admin{
+
+	width:78%;
+	text-align: left;
+	height: 60px;
+	margin: 50px;
+	
+	}
+}
+
+
+@media(max-width: 600px){
+	#icons-link{
+		width:270px;
+	}
+
+}
+
+
+@media(max-width: 600px){
+
+	#enroll{
+		display: block;
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	li#menu{
+		
+		display:none;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	ul#foot-links,li#social-media{
+		text-align:left;
+		width: 290px;
+		
+		
+	}
+}
+
+@media(max-width: 600px){
+
+	nav{
+
+		width:100%;
+		padding: 0;
+		margin-top: 0;
+		align-items:center;
+	}
+}
+
+
+@media(max-width: 600px){
+	
+	li#social-media{
+		text-align: center;
+		display:inline;
+		margin: 5px;
+		padding-top: 50px;
+	}
+}
+
+
+
+
+@media(max-width: 600px){
+	
+	ul#contact-links{
+
+		display: inline;
+		float: left;
+
+	}
+}
+
+
+@media{
+	
+	#section-about{
+
+		display:none;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	iframe{
+		display:none;
+		width: 100%;
+		height:auto;
+		
+	}
+}
+
+
+@media(max-width: 600px){
+
+	#academic{
+
+		display: none;
+	}
+}
+
+
+
+@media(max-width: 600px){
+	
+	#hero-text{
+		text-align: left;
+		padding-top: 50px;
+		height: 300px;
+		border:none;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	button#left-btn,button#right-btn {
+		
+
+		display:none;
+	}
+}
+
+
+
+@media(max-width: 600px){
+	
+	#center-section{
+
+		height: 50%;
+	}
+}
+
+
+
+@media(max-width: 600px){
+	
+	#para-2{
+		
+		font-size: 12px;
+		text-align: left;
+		margin:0px;
+		width:80%;
+		
+	}
+}
+
+
+@media(max-width: 600px){
+
+	#navigation{
+		display: block;
+		/* border-top: 1px solid whitesmoke; */
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	#foot{
+		position:inherit;
+		height: 20px;
+		padding-bottom: 20px;
+	}
+}
+
+
+@media(max-width: 600px){
+	
+	#alert{
+
+		display:none;
+	}
+}
+
+
+@media screen and (max-width: 600px){
+	
+	ul{
+		display:block;
+	}
+}
+
+
+
+@media(max-width: 600px){
+	
+	h5{
+		text-align:left;
+		font-size: 20px;
+		margin:20px;
+		display: none;
+	}
+
+}
+
+@media screen and (max-width: 600px){
+	
+	ul#nav-links{
+		display:none;
+	}
+}
+
+
+@media screen and (max-width: 600px){
+
+	h4{
+		font-size: 34px;
+		font-weight: bold;
+		font-family: Arial;
+		padding-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 600px){
+	
+	h2{
+		padding-top:10px;
+		padding-bottom: 50px;
+		font-size:36px;
+	}
+}
+
+
+
+@media(max-width: 600px){
+	#admission-entry{
+		
+		float:left;
+		width: 100%;
+		top: 10px;
+		
+	}
+}
+
+
+/* LOGO */
+
+@media(max-width: 600px){
+	
+	img#logo{
+
+		height: 60px;
+		width: 60px;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	#about-image{
+
+		width:295px;
+		align-content: center;
+		margin:0px;
+
+	}
+}
+
+
+@media(max-width: 600px){
+	
+	button#readmore{
+
+		display: block;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	#img-card{
+		width: auto;
+		align-content: center;
+		display: none;
+	}
+}
+
+@media(max-width: 600px){
+
+	img{
+		
+		float:left;
+		margin:20px;
+		
+	}
+}
+
+@media(max-width: 600px){
+
+	#contact-us{
+
+		text-align: left;
+		height: 10%;
+		margin: 0;
+		float: left;
+		display: block;
+		width: 20px;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	#courses,#links{
+
+		display: none;
+	
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	h2#mission{
+		
+		display: none;
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	#career{
+
+		display: none;
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	#footer-section{
+		height: 150%;
+		width:100%;
+		/* background-color: red; */
+		padding-top: 50px;
+	display: none;
+		padding-bottom: 50px;
+	}
+
+}
+
+
+
+@media(max-width: 600px){
+
+	nav{
+		padding-bottom: 120px;
+		background-color: white;
+	}
+}
+
+
+
+@media(max-width: 600px){
+	
+	span#hidden-text{
+		
+		display: none;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	#Courses{
+
+		display: none;
+	}
+}
+
+
+
+
+@media(max-width:600px){
+
+	#news{
+		width:100%;
+		margin:0px;
+		text-align: justify;
+		 
+	}
+}
+
+
+@media(max-width: 600px){
+	#apply
+	{
+		
+		display: none;
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	p{
+
+		width:auto;
+		
+		/* align-items:center; */
+	}
+}
+
+
+
+@media(max-width: 600px){
+
+	#section{
+		background-image: none;
+		width:auto;
+		background-color:white;
+	}
+}
+
+
+@media(max-width: 600px){
+
+	
+}
+
+
+
+@media(max-width: 600px){
+
+	#admission{
+		display: none;
+		top: 50px;
+		padding-bottom: 50px;
+	}
+}
+
+
+
+@media(max-width: 600px){
+	
+	.w3-card{
+
+		width: 100%;
+	}
+}
