@@ -3,6 +3,16 @@ body {
   background-color: white;
 }
 
+
+ @media screen and (max-width: 600px) {
+            .center-form {
+                margin-left: auto;
+                margin-right: auto;
+                width: 90%;
+            }
+        }
+
+
 #Courses {
   height: 300px;
   /* border-right: 1px dotted darkblue; */
