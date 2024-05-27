@@ -153,14 +153,14 @@ a#btn:hover {
 a#btn {
   background-color: whitesmoke;
 }
-
+/* 
 @media (max-width: 600px) {
   #apply {
-    float: left;
+    
     margin-left: 20px;
   }
 }
-
+ */
 #main-section {
   background-image: url("../images/nce-result-bcc-ghana.jpeg");
   background-size: cover;
