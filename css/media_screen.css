@@ -25,22 +25,7 @@
 }
 
 
-.card {
-    display: flex;
-    flex-direction: column;
-    height: auto;
-}
 
-.card-text {
-    padding: 16px;
-    margin: 16px;
-    text-align: left;
-    font-size: 1.25em;
-    color: black;
-    font-weight: bold;
-    font-family: verdana;
-    text-decoration: underline;
-}
 
 @media (max-width: 992px) {
     .card-text {
@@ -50,7 +35,7 @@
 
 @media (max-width: 768px) {
     .card-text {
-        font-size: 1em;
+        font-size:15px;
     }
 }
 
