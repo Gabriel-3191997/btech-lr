@@ -138,7 +138,7 @@
 }
 
 
-/* @media(max-width: 600px){
+@media(max-width: 600px){
 
 
 	#about{
@@ -146,10 +146,10 @@
 		width: auto;
 		margin: 0px;
 		float: left;
-		height:350px;
+		height:auto;
 	}
 }
- */
+
 
 
 
