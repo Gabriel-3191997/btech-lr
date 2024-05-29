@@ -24,6 +24,11 @@
 	}
 }
 
+@media screen and (max-width: 600px) {
+    .w3-padding-mobile {
+        padding: 20px; /* Adjust the padding value according to your preference */
+    }
+}
 
 
 
