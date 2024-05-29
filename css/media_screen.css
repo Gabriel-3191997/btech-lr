@@ -143,17 +143,12 @@
 }
 
 
-@media(max-width: 600px){
-
-
-	#about{
-
-		width: auto;
-		margin: 0px;
-		float: left;
-		height:100%;
-	}
+@media screen and (max-width: 600px) {
+    #about {
+        padding-bottom: 40px; /* Adjust the padding-bottom value according to your preference */
+    }
 }
+
 
 
 
